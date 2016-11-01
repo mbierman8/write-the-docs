@@ -24,3 +24,5 @@ Get more details in the [GitHub Pages documentation](https://help.github.com/cat
 Next steps
 
 Enhance your website
+
+Contribute to other open-source projects
